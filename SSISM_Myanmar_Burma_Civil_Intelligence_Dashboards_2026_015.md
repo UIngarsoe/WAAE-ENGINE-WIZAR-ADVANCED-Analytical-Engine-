@@ -104,6 +104,16 @@ International Institute for Strategic Studies. (2026). *IISS Myanmar conflict ma
 
 Institute for Strategy and Policy - Myanmar. (2026). *ISP Myanmar conflict dashboard*. ISP Myanmar. https://ispmyanmar.com/
 
-Soe, U I. (2026). *SSISM-2026-015: Dual-language civil education & technical node defense framework* [Source code / Markdown dossier]. GitHub. https://github.com/UIngarsoe/THE-ISM-BUDDHA-ISM-BUDDHISM-BY-INGAR-SOE/blob/main/SSISM_Civil_Intelligence_Dossier_2026_015.md
+Soe, U I. (2026). *SSISM-2026-015: Dual-language civil education & technical node defense framework* [Source code / Markdown  https://github.com/UIngarsoe/WAAE-ENGINE-WIZAR-ADVANCED-Analytical-]
+
+Engine-/blob/73cfe1a4d1a4e7a9c2530ecc6f826fc724e34996/SSISM_Myanmar_Burma_Civil_Intelligence_Dashboards_2026_015.md
+
+GitHub. https://github.com/UIngarsoe/THE-ISM-BUDDHA-ISM-BUDDHISM-BY-INGAR-SOE/blob/main/SSISM_Civil_Intelligence_Dossier_2026_015.md
 
 United Nations High Commissioner for Refugees. (2026). *Operational data portal: Myanmar situation*. UNHCR. https://data.unhcr.org/en/situations/myanmar
+
+U Ingar Soe SSISM Sentinel 
+Bamar Enlightenment Journal Executive Editor 
+OSINT Myanmar/Burma Civil Enlightenment Nodes 
+Civil Intelligence Education Specialist 
+MIT Licensed Algorithm July 2026.
