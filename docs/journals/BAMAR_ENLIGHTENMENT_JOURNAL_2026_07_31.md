@@ -84,10 +84,10 @@
 
 ---
 # 🛡️ BAMAR ENLIGHTENMENT JOURNAL | WAAE-ENGINE LECTURE
-**Series ID:** SSISM-WAAE-EJ-2026-07-30  
+**Series ID:** SSISM-WAAE-EJ-2026-07-31  
 **Title:** The Mind of Vijja: Transmutation of Worldly Friction into Perfection (ပါရမီ)  
 **Author & Executive Director:** U Ingar Soe  
 
 [File generated for today's Bamar Enlightenment Journal]
 EOF
-git add docs/journals/BAMAR_ENLIGHTENMENT_JOURNAL_2026_07_30.md && git commit -m "docs(waae): publish Bamar Enlightenment Journal 2026-07-31"
+git add docs/journals/BAMAR_ENLIGHTENMENT_JOURNAL_2026_07_31.md && git commit -m "docs(waae): publish Bamar Enlightenment Journal 2026-07-31"
