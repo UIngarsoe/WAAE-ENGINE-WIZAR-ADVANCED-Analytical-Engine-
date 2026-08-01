@@ -11,8 +11,11 @@ Instructor
 U Ingar Soe (Executive Director / WIZAR System Architect)
 System Anchor
 WAAE-ENGINE / SENTINEL MEAL / MICRO-MEDITATION
+
 Lecture Title
-The Smile Donation Package 📦 😀 & The Economics of Micro-Kuthol (အပြုံးအလှူနှင့် သေးငယ်သော ကုသိုလ်စုဆောင်းခြင်းအင်ဂျင်)
+The Smile Donation Package 📦 😀 & The Economics of Micro-Kuthol 
+
+(အပြုံးအလှူနှင့် သေးငယ်သော ကုသိုလ်စုဆောင်းခြင်းအင်ဂျင်)
 
 📊 Executive Analysis: Synthesis of 3 Strategic Pillars
 Today's Masterclass Room 8 fuses three essential foundational pillars to form an unassailable Sentinel Defense & Compassion Engine:
