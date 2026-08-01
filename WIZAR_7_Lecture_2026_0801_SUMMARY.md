@@ -1,4 +1,5 @@
-🛡️ SSISM INTEL WIZAR MASTERCLASS | ROOM 7
+🛡️ SSISM INTEL WIZAR MASTERCLASS 
+| CLASSROOM 7 |
 
 "The Minds of Higher Knowledge" by U Ingar Soe 1st August 2026 
 
