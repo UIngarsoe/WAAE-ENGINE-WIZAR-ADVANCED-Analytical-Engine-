@@ -608,7 +608,7 @@ WAAE-ENGINE CLASSROOM 9
 
 အပိုင်း (၄) — ပြည်သူ့ထောက်လှမ်းအသိပညာ ပညာရေး (Civil Intelligence Education) အတွက် Logic Model
 
-By U Ingar Soe (မြန်မာဘာသာပြန် Edition)
+By U Ingar Soe 
 
 
 ---
