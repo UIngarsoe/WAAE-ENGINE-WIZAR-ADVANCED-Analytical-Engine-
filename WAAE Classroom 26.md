@@ -1,4 +1,5 @@
-# Classroom 26 WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine Masterclass
+# WAAE-ENGINE Classroom 26 
+WIZAR-ADVANCED-Analytical-Engine Masterclass
 
 ## Myanmar in Crisis: Executive Intelligence Briefing
 
