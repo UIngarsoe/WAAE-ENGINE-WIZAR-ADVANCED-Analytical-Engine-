@@ -325,7 +325,9 @@ English
 
 ---
 
-Instructor Framework: U Ingar Soe
+##### Instructor Framework: U Ingar Soe
+Bamar Enlightenment Journal Executive Editor 
+
 System: SSISM Intel – WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine
 Masterclass: Session 24 – The Taxonomy of Silence
 Educational Purpose: Professional ethics, responsible communication, operational security awareness, and disciplined decision-making.
