@@ -14,41 +14,43 @@ This masterclass integrates real-time open-source intelligence data, conflict mo
 
 Approximately 40% of these civilian deaths are concentrated within the central Anyar region (Sagaing, Magway, and Mandalay).
 
-### * Structural Infrastructure Destruction: 
+### Structural Infrastructure Destruction: 
 
 According to data from Data for Myanmar, cumulative arson attacks since the 2021 coup have destroyed more than 125,000 homes, directly correlating with military clearance operations and intensive aerial bombing campaigns.
 
 
 ### Part 2: The Information Warfare Vector & Strategic Asymmetry
 
- * The Manufactured "Transition": Authoritarian narrative strategies (such as those analyzed via international media and think tanks) attempt to launder political legitimacy through staged electoral frameworks and diplomatic memorandums, which independent external monitors consistently debunk.
+#### The Manufactured "Transition": 
 
-##  * Resistance Communication Assets:
+Authoritarian narrative strategies (such as those analyzed via international media and think tanks) attempt to launder political legitimacy through staged electoral frameworks and diplomatic memorandums, which independent external monitors consistently debunk.
 
-### * Ground Control & Legitimacy: 
+##  Resistance Communication Assets:
+
+### Ground Control & Legitimacy: 
 
 The coalition of the National Unity Government (NUG), the Steering Committee for the Emergence of a Federal Democratic Union (SCEF), Ethnic Armed Organizations (EAOs), and People's Defense Forces (PDFs) maintain territorial control across vital regional sectors, backed by enduring public legitimacy earned through 5 years of resistance.
 
-###  * Independent Factual Records: 
+###  Independent Factual Records: 
 
 Independent media networks (Irrawaddy, Mizzima, DVB, Myanmar Now) reach global audiences exceeding 20 million, leveraging high-risk field reporting to counter institutional propaganda.
 
-###   * Strategic Candor: 
+###   Strategic Candor: 
 
 Unscripted, transparent leadership evaluations (such as public assessments of operational pacing as "two steps forward, one step back") generate long-term international credibility that scripted state inaugurations cannot replicate.
 
 
 ### Part 3: Diplomatic Attrition & Authoritarian Isolation
 
-###  * The Failure of the Five-Point Consensus:
+###  The Failure of the Five-Point Consensus:
 
 The military leadership's formal rejection of ASEAN's fundamental demands—specifically refusing to release political prisoners such as Daw Aung San Suu Kyi—marks a complete breakdown in regional engagement protocols.
 
-### * International and Regional Enforcement:
+### International and Regional Enforcement:
 
 Supported by United Nations frameworks (such as Resolution 2669) and active regional diplomatic pressure from rotating ASEAN chairs like the Philippines, international bodies have sustained coordinated pressure against the regime.
 
-###  * Diplomatic Dead-Ends: 
+###  Diplomatic Dead-Ends: 
 
 High-profile diplomatic miscalculations—manifested in aborted regional visits and domestic political fallout abroad—demonstrate the regime's fundamental inability to navigate multilateral statecraft, sealing its diplomatic isolation.
 
