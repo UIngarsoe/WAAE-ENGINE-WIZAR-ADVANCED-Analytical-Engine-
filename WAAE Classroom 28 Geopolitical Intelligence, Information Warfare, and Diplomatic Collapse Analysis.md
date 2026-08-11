@@ -6,6 +6,7 @@
 
 This masterclass integrates real-time open-source intelligence data, conflict monitoring metrics, and structural diplomatic analysis to examine the intersection of armed resistance, narrative warfare, and the collapse of authoritarian legitimacy.
 
+
 ## Part 1: Quantitative Conflict Metrics & Regional Impact
 
 #####  Arson and Casualty Trends (January – July 2026): Conflict monitoring data from ACLED records over 12 military-perpetrated mass killings resulting in more than 450 civilian fatalities during the first half of 2026.
@@ -38,6 +39,7 @@ Independent media networks (Irrawaddy, Mizzima, DVB, Myanmar Now) reach global a
 ###   Strategic Candor: 
 
 Unscripted, transparent leadership evaluations (such as public assessments of operational pacing as "two steps forward, one step back") generate long-term international credibility that scripted state inaugurations cannot replicate.
+
 
 
 ## Part 3: Diplomatic Attrition & Authoritarian Isolation
