@@ -1,6 +1,5 @@
 #### WAAE-ENGINE-WIZAR-ADVANCED Analytical Engine Masterclass Lecture
-## Module 28: 
-### "Geopolitical Intelligence, Information Warfare, and Diplomatic Collapse Analysis" 
+## Module 28: ### "Geopolitical Intelligence, Information Warfare, and Diplomatic Collapse Analysis" 
 #### by U Ingar Soe 11 August 2026
 
 ##### Lecture Overview
