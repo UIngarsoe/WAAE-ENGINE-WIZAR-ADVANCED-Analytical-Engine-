@@ -25,7 +25,7 @@ According to data from Data for Myanmar, cumulative arson attacks since the 2021
 
 Authoritarian narrative strategies (such as those analyzed via international media and think tanks) attempt to launder political legitimacy through staged electoral frameworks and diplomatic memorandums, which independent external monitors consistently debunk.
 
-##  Resistance Communication Assets:
+###  Resistance Communication Assets:
 
 ### Ground Control & Legitimacy: 
 
