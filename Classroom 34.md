@@ -371,3 +371,5 @@ sovereignty must ultimately be examined through the people, institutions, eviden
 
 — SSISM WAAE-ENGINE-WIZAR-ADVANCED Analytical Engine
 Masterclass Classroom 34
+
+### U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor OSINT Myanmar/Burma Civil Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm August 2026 
