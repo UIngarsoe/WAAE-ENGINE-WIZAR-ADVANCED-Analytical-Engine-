@@ -3,7 +3,7 @@ System Dossier Metadata
 Framework: WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine
 ## Module: Classroom 37 
 ### "The Father-Son Governance and Corporate Nexus"
-###  * Author / Lead Researcher: U Ingar Soe
+### Author / Lead Researcher: U Ingar Soe
 
 Organization: SSISM Sentinel Intelligence
 #### Bamar Enlightenment Journal 37
