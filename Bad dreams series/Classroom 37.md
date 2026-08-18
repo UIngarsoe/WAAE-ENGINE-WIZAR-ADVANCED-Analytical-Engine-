@@ -1,11 +1,14 @@
 🛡️ WAAE-ENGINE-WIZAR-ADVANCED — MASTERCLASS CLASSROOM 37
 System Dossier Metadata
- * Framework: WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine
-## * Module: Classroom 37 — "The Father-Son Governance and Corporate Nexus"
+Framework: WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine
+## Module: Classroom 37 
+### "The Father-Son Governance and Corporate Nexus"
 ###  * Author / Lead Researcher: U Ingar Soe
- * Organization: SSISM Sentinel Intelligence / Bamar Enlightenment Journal
-####  * Date: August 18, 2026
- * Status: SECURE — INTEGRITY SEALED — DEPLOYED SUCCESSFULLY
+
+Organization: SSISM Sentinel Intelligence
+#### Bamar Enlightenment Journal 37
+#### Date: August 18, 2026
+#### Status: SECURE — INTEGRITY SEALED — DEPLOYED SUCCESSFULLY
 
 ## 1. Executive Summary & Core Intelligence Question
 Do POWs and Fallen Soldiers' Families Receive Payouts?
