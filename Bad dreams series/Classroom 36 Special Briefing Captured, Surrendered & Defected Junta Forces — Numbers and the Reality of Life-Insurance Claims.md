@@ -1,4 +1,5 @@
-# Sentinel Intelligence Classroom 36: Knowing What We Don’t Know — POWs, Defectors and the Missing Payout Trail
+### Sentinel Intelligence Classroom 36:
+"Knowing What We Don’t Know — POWs, Defectors and the Missing Payout Trail"
 ## "Captured Junta Personnel — Verified Numbers vs. Insurance Reality" by U Ingar Soe 
 #### SSISM Sentinel Bamar Enlightenment Journal 36
 
