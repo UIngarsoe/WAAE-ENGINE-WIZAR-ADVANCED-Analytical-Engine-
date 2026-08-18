@@ -1,6 +1,7 @@
-WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine (Masterclass Classrooms 35 & 36)
-Author / Lead Researcher: U Ingar Soe
-Date: August 18, 2026
+WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine ## 
+### (Masterclass Classrooms 35 & 36 Reflectios)
+### Author / Lead Researcher: U Ingar Soe
+##### Date: August 18, 2026
 
 ## 1. Introduction and The Scope 
 
@@ -48,7 +49,7 @@ The ultimate proof of wartime profit-making lies in the governance-ownership nex
  * When the head of state dictates military deployments and frontline risks, and immediate family members control the primary private life insurance apparatus covering those exact forces, a severe structural conflict of interest is formed.
  * Every battlefield risk ordered by the executive leadership translates directly into controlled financial retention for the ruling family's private corporate entity, turning human loss into a private revenue stream.
 
-## Json knowledge of Classroom 35 36 Reflection 
+## Json knowledge of Classroom 35 36 Reflections 
 
 {
   "module": "WAAE-ENGINE-WIZAR-ADVANCED-Analytical-Engine",
