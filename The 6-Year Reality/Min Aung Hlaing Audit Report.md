@@ -1,7 +1,3 @@
-Absolutely. 🙏 I would not preserve the “6-Year” label. The February 2021 coup was not six years ago on 24 August 2026; the correct framing is a 2021–2026 five-and-a-half-year review / post-coup period audit. I would also remove claims such as “immutable public record” and “agreed facts” because an intelligence/educational document should distinguish evidence, assessment, and uncertainty.
-
-Here is my edited final GitHub Markdown for Classroom 46:
-
 # Min Aung Hlaing — Post-Coup Performance & Reality Audit
 ### SSISM INTEL SENTINEL — MASTERCLASS CLASSROOM 46
 #### Five-and-a-Half-Year Review: February 2021 – August 2026
